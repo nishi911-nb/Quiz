@@ -1,0 +1,56 @@
+.start-btn{
+    margin-top: 20%;
+    margin-left: 45%;
+    background-color: black;
+    padding: 15px 25px;
+    font-size: 25px;
+    color: white;
+    cursor: pointer;
+}
+
+.quiz-content{
+    display: none;
+    max-width: 900px;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+
+h3{
+    font-size: 25px;
+    margin-left: 40px;
+}
+
+li{
+    list-style-type: none;
+    background-color: rgb(239, 235, 235);
+    padding: 25px 15px;
+    margin: 8px 0px;
+}
+
+.next-btn > button{
+    margin-left: 91.5%;
+    background-color: black;
+    padding: 8px 20px;
+    font-size: 15px;
+    color: white;
+    cursor: pointer;
+}
+
+.next-btn > h4{
+    margin-top: -35px;
+    margin-left: 5%;
+}
+
+.result{
+    text-align: center;
+    margin-top: 10%;
+    display: none;
+}
+
+p{
+    font-size: 28px;
+}
+
+h4{
+    font-size: 20px;
+}
